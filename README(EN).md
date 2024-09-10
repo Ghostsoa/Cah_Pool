@@ -1,13 +1,13 @@
-# cah (CattleAndHorses) **`CowHorse`** **`Goroutine Pool`**
+# Cah_Pool (CattleAndHorses_Pool) **`牛马`** **`Goroutine Pool`**
 
-cah (CattleAndHorses), also known as **`CowHorse`**, is a high-performance Go goroutine pool that natively supports various priority task scheduling, aiming to optimize the efficiency of concurrent task processing. It provides a simple API and powerful configuration options to flexibly adapt to different scenarios.
+Cah_Pool (CattleAndHorses_Pool), also known as **`牛马`**, is a high-performance Go goroutine pool that natively supports various priority task scheduling, aiming to optimize the efficiency of concurrent task processing. It provides a simple API and powerful configuration options to flexibly adapt to different scenarios.
 
 [中文](README.md) | [English](README(EN).md)
 
 
 ## Table of Contents
 
-- [cah (CattleAndHorses) **`CowHorse`** **`Goroutine Pool`**](#cah-cattleandhorses-cowhorse-goroutine-pool)
+- [Cah_Pool (CattleAndHorses_Pool) **`牛马`** **`Goroutine Pool`**](#cah-cattleandhorses-cowhorse-goroutine-pool)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Features](#features)
@@ -94,7 +94,7 @@ Make sure you have [Go](https://golang.org/dl/)installed.
 
 Clone this repository:
 ```bash
-git clone https://github.com/Ghostsoa/Cah.git
+git clone https://github.com/Ghostsoa/Cah_Pool.git
 cd Cah
 ```
 
@@ -139,7 +139,7 @@ package main
 
 import (
     "fmt"
-    "github.com/Ghostsoa/Cah"
+    "github.com/Ghostsoa/Cah_Pool"
 )
 
 func main() {
