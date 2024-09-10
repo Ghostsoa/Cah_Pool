@@ -2,6 +2,9 @@
 
 Cah(CattleAndHorses)，中文名 **`牛马`** 是一个高性能的 Go 协程池，原生支持多种优先级任务调度，旨在优化并发任务的处理效率。提供了简单的 API 和强大的配置选项，以便灵活地应用于不同场景。
 
+[中文](README.md) | [English](README(EN).md)
+
+
 ## 目录
 
 - [Cah **`全称`** (  CattleAndHorses) **`牛马`** **`协程池`**](#cah--全称-cattleandhorses-牛马-协程池)
