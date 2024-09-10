@@ -30,6 +30,10 @@ Cah_Pool (CattleAndHorses_Pool), also known as **`牛马池`**, is a high-perfor
 - **Dynamic Expansion**: Dynamically creates and recycles worker goroutines based on the waiting and running status of tasks.
 - **Single Node Cluster Support**: Capable of distributing tasks across nodes, reducing internal lock contention within a single node and improving task processing efficiency.
 
+## Workflow
+![Flowchart]flowchart(en).png)
+
+
 ## Performance Benchmarking
 **`For reference only`** <br>
 **`Benchmark code can be found in the project`** <br><br>
