@@ -49,7 +49,7 @@ This project is compared with the popular open-source framework Ants, and the re
 
 
  **`Benchmark Comparison Table 1`** 
-| Test Item                | Operations    | Avg Time (ns/op) | Memory Allocation (B/op) | Allocations (allocs/op) | Goroutine Pool Capacity |
+| Test Item                | Operation Count   | Average Time(ns/op) | Memory Allocation (B/op) | Allocations (allocs/op) | Goroutine Pool Capacity |
 |---------------------|-----------|-----------------|----------------|------------------|------------|
 | **Benchmark_cah**   |           |                 |                |                  | 50000      |
 |          1          | 3549633   | 364.3           | 17             | 1                |            |
