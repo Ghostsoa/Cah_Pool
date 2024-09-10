@@ -87,8 +87,8 @@ cpu: AMD Ryzen 5 5600H with Radeon Graphics
 
 1. 克隆此仓库：
     ```bash
-    git clone https://github.com/yourusername/cattleandhorses.git
-    cd cattleandhorses
+    git clone https://github.com/Ghostsoa/Cah.git
+    cd cah
     ```
 
 2. 下载依赖：
