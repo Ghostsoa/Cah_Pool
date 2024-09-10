@@ -1,4 +1,4 @@
-# Cah  **`全称`**( CattleAndHorses) **`牛马`** **`协程池`**
+# Cah_Pool  **`全称`**( CattleAndHorses_Pool) **`牛马池`** **`协程池`**
 
 Cah(CattleAndHorses)，中文名 **`牛马`** 是一个高性能的 Go 协程池，原生支持多种优先级任务调度，旨在优化并发任务的处理效率。提供了简单的 API 和强大的配置选项，以便灵活地应用于不同场景。
 
@@ -91,7 +91,7 @@ cpu: AMD Ryzen 5 5600H with Radeon Graphics
 
 1. 克隆此仓库：
     ```bash
-    git clone https://github.com/Ghostsoa/Cah.git
+    git clone https://github.com/Ghostsoa/Cah_Pool.git
     cd Cah
     ```
 
@@ -139,7 +139,7 @@ package main
 
 import (
     "fmt"
-    "github.com/Ghostsoa/Cah"
+    "github.com/Ghostsoa/Cah_Pool"
 )
 
 func main() {
