@@ -88,7 +88,7 @@ cpu: AMD Ryzen 5 5600H with Radeon Graphics
 1. 克隆此仓库：
     ```bash
     git clone https://github.com/Ghostsoa/Cah.git
-    cd cah
+    cd Cah
     ```
 
 2. 下载依赖：
@@ -135,7 +135,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/cattleandhorses"
+    "github.com/Ghostsoa/Cah"
 )
 
 func main() {
