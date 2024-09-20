@@ -76,15 +76,15 @@ This project is compared with the popular open-source framework Ants, and the re
 |            | **Benchmark_Ants**  | 655546   | 1626             | 23              | 1                    |
 | **30000**  | **Benchmark_cah**   | 2003300  | 558.5            | 19              | 1                    |
 |            | **Benchmark_Ants**  | 2213972  | 507.6            | 22              | 1                    |
-| **100000** | **Benchmark_cah**   | 2583167  | 502.4            | 20              | 1                    |
+| **100000** | **Benchmark_cah**   | 2583167  | 457.1            | 20              | 1                    |
 |            | **Benchmark_Ants**  | 2394409  | 467.6            | 22              | 1                    |
 
  **`Benchmark Comparison Table 3 for Single Node Cluster (Single Node Capacity Limit 50000)`** 
 | Goroutine Pool Capacity | Node Count | Test Item         | Operation Count | Average Time(ns/op) | Memory Allocated (B/op) | Allocation Count (allocs/op) |
 |------------|--------|----------------------------|----------|------------------|------------------|----------------------|
 | **100000** | 2      | **Benchmark_cah_Cluster**  | 3522075  | 338.9            | 19               | 1                    |
-| **150000** | 3      | **Benchmark_cah_Cluster**  | 2876994  | 372.0            | 24               | 1                    |
-| **200000** | 4      | **Benchmark_cah_Cluster**  | 2882150  | 358.2            | 24               | 1                    |
+| **150000** | 3      | **Benchmark_cah_Cluster**  | 3433332  | 332.6            | 21               | 1                    |
+| **200000** | 4      | **Benchmark_cah_Cluster**  | 3343900  | 358.2            | 22               | 1                    |
 
 
 
