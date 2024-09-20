@@ -84,7 +84,7 @@ This project is compared with the popular open-source framework Ants, and the re
 |------------|--------|----------------------------|----------|------------------|------------------|----------------------|
 | **100000** | 2      | **Benchmark_cah_Cluster**  | 3522075  | 338.9            | 19               | 1                    |
 | **150000** | 3      | **Benchmark_cah_Cluster**  | 3433332  | 332.6            | 21               | 1                    |
-| **200000** | 4      | **Benchmark_cah_Cluster**  | 3343900  | 358.2            | 22               | 1                    |
+| **200000** | 4      | **Benchmark_cah_Cluster**  | 3343900  | 358.2            | 23               | 1                    |
 
 
 
